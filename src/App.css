@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+button{
+  border: 0.5px solide black;
+  outline: none;
+  background-color: rgb(139, 139, 199);
+  color: rgb(139, 0, 30);
+  padding: 8px;
+  border-radius: 10px;
+}
+.box1{
+  width: 500px;
+  height: 100px;
+  background-color: tomato;
+  margin: auto;
+}
+.one{
+  width: 500px;
+  height: 100px;
+  background-color: rgb(185, 172, 94);
+  margin: auto;
+  padding: 10px;
+}
